@@ -23,9 +23,11 @@ By the end of Practical 5, I had a clear understand of how to make a child theme
 ### Learning Journey for Practical 5
 The main part of the Practical 5 is the Varying Vagrant Vagrants (VVV), I watched some video to understand of it.
 * [Varying Vagrant Vagrants VVV for WordPress Development](https://youtu.be/w4yQ_4Btu_g?si=WY7i9ase-Pm2z7MX)
+
 After I have a basic understand of Varying Vagrant Vagrants (VVV), I moved on to make a new child theme of localhost wordpress website.
 During the wordpress set up process, the mysql service on XAMPP is not able to function. So I spend some time to find out the solution.
 * [XAMPP MySQL not starting on windows](https://blog.terresquall.com/2022/08/xampp-mysql-not-starting-on-windows/)
+
 I use the method on the link above to fix the issue. Not just myself, also other classmate's issue got fixed.
 
 ### Estimated hours
